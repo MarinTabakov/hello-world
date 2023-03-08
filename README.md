@@ -1,2 +1,1 @@
-# hello-world
-My first one 
+My name is Marin and i'm 35 years old. Married with two kids. Recently i've started laerning "Programming basics in Python". I'm determined to learn to code and start working as a programmer in less than 3 years ! 
